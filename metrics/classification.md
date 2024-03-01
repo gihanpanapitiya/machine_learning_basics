@@ -18,3 +18,7 @@ This metric is important when the we are concerned about False Positives. Which 
 
 Recall = True Positves/(True Positives + False Negatives)
 This metric is important when the we are concerned about False Negatives.
+
+
+References:
+https://en.wikipedia.org/wiki/Precision_and_recall
