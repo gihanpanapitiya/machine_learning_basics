@@ -6,11 +6,11 @@ For example, in the term 'False Positive', Positive is with respect to the predi
 
 
 
-True Positives = Predicted as Positves, Actually Possitive
-False Positives = Predicted as Positives, Actuallt Negatives
+True Positives = Predicted as Positves, Actually Possitive </br>
+False Positives = Predicted as Positives, Actuallt Negatives </br>
 
-True Negatives = Predicted as Negatives, Actually Negatives
-False Negatives = Predicted as Negatives, Actually Positives
+True Negatives = Predicted as Negatives, Actually Negatives </br>
+False Negatives = Predicted as Negatives, Actually Positives </br>
 
 
 Precision = True Positives/(True Positives + False Positives)
